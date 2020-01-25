@@ -1,7 +1,7 @@
 # ESP8266-OutDoorSensor
 Build a Outdoorsensor with ESP8266 and BME280
 
-![Screenshot](weatherstation1.jpg)
+![Screenshot](weatherstation_1.png)
 
 I Setup a Weatherstation with a: <br>
 ESP12F-Modul <br>
