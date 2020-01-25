@@ -1,2 +1,4 @@
 # ESP8266-OutDoorsensor
-How to build a Outdoorsensor with ESP8266 and BME280
+Build a Outdoorsensor with ESP8266 and BME280
+
+![Screenshot](weatherstation1.jpg)
