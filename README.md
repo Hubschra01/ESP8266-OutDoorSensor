@@ -20,7 +20,7 @@ The Sensor publish every 10 Minutes the Temperature, barometric pressure and hum
 
 rule for ESPEasy:
 
-````
+```
 On System#Boot do
 timerSet,2,30     // timerset 30 after boot doo deepsleep
 endon
