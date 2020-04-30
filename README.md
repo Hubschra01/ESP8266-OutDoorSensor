@@ -52,6 +52,7 @@ On Rules#Timer=2 do  //When Timer1 expires, do
 endon
 ```
 The PCB i draw with DIY Layout Creator
+
 ![Screenshot](outdoor_sensor.PNG)
 
 (...to be continued)
