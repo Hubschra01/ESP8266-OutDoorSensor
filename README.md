@@ -55,5 +55,14 @@ The PCB i draw with DIY Layout Creator
 
 ![Screenshot](outdoor_sensor.PNG)
 
+R1...R5 : 10k
+
+R6      : 820k 0.6W 1%
+
+R7      : 200k 0.6W 1%
+
+R6/R7 is the Volatge Divider to monitor the LiPo Voltage
+
+
 (...to be continued)
 
