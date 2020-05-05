@@ -53,7 +53,7 @@ endon
 ```
 The PCB i draw with DIY Layout Creator
 
-![Screenshot](outdoor_sensor.PNG)
+![Screenshot](outdoor_sensor1.PNG)
 
 R1...R5 : 10k
 
@@ -62,6 +62,8 @@ R6      : 820k 0.6W 1%
 R7      : 200k 0.6W 1%
 
 R6/R7 is the Volatge Divider to monitor the LiPo Voltage.
+
+Q1 HT 7333-A
 
 The ESP 12F PCB is soldered on a Breakout PCB i buyed on ebay.
 
